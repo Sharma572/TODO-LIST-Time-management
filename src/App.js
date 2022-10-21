@@ -37,7 +37,7 @@ const App = () => {
     newTodo[index].startTime = e.target.value;
     newTodo[index].endTime = e.target.value;
     newTodo[index].text = e.target.value;
-    setdata(newTodo[index]);
+    return setdata(newTodo);
   }
 
   function handleEdit(index) {
