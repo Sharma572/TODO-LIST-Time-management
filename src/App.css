@@ -1,0 +1,24 @@
+.App  {
+  text-align: center;
+  /* background-color: rgb(141, 0, 0); */
+}
+input {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  padding: 10px 25px;
+  border: 2px solid black;
+  border-radius: 7%;
+}
+button{
+  padding: 10px 15px;
+  border: 2px solid black;
+  border-radius: 10%;
+  color: black;
+}
+/* .containner{
+  margin:0 100px;
+} */
+
+
+
